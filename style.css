@@ -7,12 +7,11 @@
     height: 300px;
     width: 1300px;
     /* this is background image for your design  */
-    /* background-image: url('https://media-private.canva.com/QBd3A/MAFGDpQBd3A/1/s.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220818T131030Z&X-Amz-Expires=28697&X-Amz-Signature=8a66a5b2d2e7be58a80ac4cb6b85f8e6d8f93ce267f517dff1b8f173752df75d&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2018%20Aug%202022%2021%3A08%3A47%20GMT'); */
-    background: #000;
+    background-image: url('https://media-private.canva.com/QBd3A/MAFGDpQBd3A/1/s.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220818T131030Z&X-Amz-Expires=28697&X-Amz-Signature=8a66a5b2d2e7be58a80ac4cb6b85f8e6d8f93ce267f517dff1b8f173752df75d&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2018%20Aug%202022%2021%3A08%3A47%20GMT');
+   
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
 }
 
 .section-components {
